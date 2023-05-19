@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "beu3gh7IWIYSurnkcgVbC7dqa7PH8sxODnR4CkDIc1e+pGVLFXJmwphYqV56L9yWnpq+VQ616L8NsYMaFQLLZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\2695\\Downloads\\Telegram Desktop\\TaskTwoThreeTree\\TaskTwoThreeTree\\TaskTwoThreeTree.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\2695\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\2695\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\2695\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\2695\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.15\\microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

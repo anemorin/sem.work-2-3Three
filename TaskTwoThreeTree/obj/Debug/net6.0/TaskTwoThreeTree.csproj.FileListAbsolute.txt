@@ -1,0 +1,15 @@
+C:\Users\2695\Downloads\Telegram Desktop\TaskTwoThreeTree\TaskTwoThreeTree\bin\Debug\net6.0\TaskTwoThreeTree.exe
+C:\Users\2695\Downloads\Telegram Desktop\TaskTwoThreeTree\TaskTwoThreeTree\bin\Debug\net6.0\TaskTwoThreeTree.deps.json
+C:\Users\2695\Downloads\Telegram Desktop\TaskTwoThreeTree\TaskTwoThreeTree\bin\Debug\net6.0\TaskTwoThreeTree.runtimeconfig.json
+C:\Users\2695\Downloads\Telegram Desktop\TaskTwoThreeTree\TaskTwoThreeTree\bin\Debug\net6.0\TaskTwoThreeTree.dll
+C:\Users\2695\Downloads\Telegram Desktop\TaskTwoThreeTree\TaskTwoThreeTree\bin\Debug\net6.0\TaskTwoThreeTree.pdb
+C:\Users\2695\Downloads\Telegram Desktop\TaskTwoThreeTree\TaskTwoThreeTree\obj\Debug\net6.0\TaskTwoThreeTree.csproj.AssemblyReference.cache
+C:\Users\2695\Downloads\Telegram Desktop\TaskTwoThreeTree\TaskTwoThreeTree\obj\Debug\net6.0\TaskTwoThreeTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2695\Downloads\Telegram Desktop\TaskTwoThreeTree\TaskTwoThreeTree\obj\Debug\net6.0\TaskTwoThreeTree.AssemblyInfoInputs.cache
+C:\Users\2695\Downloads\Telegram Desktop\TaskTwoThreeTree\TaskTwoThreeTree\obj\Debug\net6.0\TaskTwoThreeTree.AssemblyInfo.cs
+C:\Users\2695\Downloads\Telegram Desktop\TaskTwoThreeTree\TaskTwoThreeTree\obj\Debug\net6.0\TaskTwoThreeTree.csproj.CoreCompileInputs.cache
+C:\Users\2695\Downloads\Telegram Desktop\TaskTwoThreeTree\TaskTwoThreeTree\obj\Debug\net6.0\TaskTwoThreeTree.dll
+C:\Users\2695\Downloads\Telegram Desktop\TaskTwoThreeTree\TaskTwoThreeTree\obj\Debug\net6.0\refint\TaskTwoThreeTree.dll
+C:\Users\2695\Downloads\Telegram Desktop\TaskTwoThreeTree\TaskTwoThreeTree\obj\Debug\net6.0\TaskTwoThreeTree.pdb
+C:\Users\2695\Downloads\Telegram Desktop\TaskTwoThreeTree\TaskTwoThreeTree\obj\Debug\net6.0\TaskTwoThreeTree.genruntimeconfig.cache
+C:\Users\2695\Downloads\Telegram Desktop\TaskTwoThreeTree\TaskTwoThreeTree\obj\Debug\net6.0\ref\TaskTwoThreeTree.dll
